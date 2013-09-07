@@ -48,7 +48,7 @@ def money(first):
 	print("""2. Chinese government: $800,000""")
 	print("""3. Zero-day research and responsible disclosure initiative: $50""")
 	print("""4. Wifi Inc. Hardware Supplier Zero Day Program: $1,000""")
-	print("""5. Syrian Cyberdefence Liberation Movement: $1,000,000""")
+	print("""5. Al-Qaeda Cyberdefence Liberation Movement: $1,000,000""")
 	answer = int(input("Pick an option: "))
 	if answer == 0:
 		if first:
